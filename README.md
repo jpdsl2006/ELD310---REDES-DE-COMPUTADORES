@@ -6,8 +6,8 @@ Projeto desenvolvido para a disciplina de Laboratório de Redes - ELD310.
 
 - João Pedro de Souza Lima - RA: 22.125.101-0
 - Luigi Bernardo de Oliveira - RA: 22.126.091-2
-- Igor Marques Pieralini - RA: 22225027-6
-- [Quarto integrante] - RA: [RA]
+- Igor Marques Pieralini - RA: 22.225.027-6
+- Gabriel Rocha De Lima - RA: 22.225.001-1
 
 ## Descrição
 
